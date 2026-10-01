@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:   Subhash Kumar
 ## About Me<br><br>I am an aspiring Data Analyst with hands-on experience in SQL, Excel, and Power BI.  <br>I enjoy working with data to clean, analyze, visualize, and transform it into actionable business insights.<br><br>🔭 Building data analytics and dashboard projects  <br>🌱  Python, advanced SQL, DAX, and data engineering  <br>💬 Interested in data cleaning, reporting, visualization, and business analysis  <br>⚡ Passionate about solving real-world problems using data
 
 
